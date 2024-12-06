@@ -3,6 +3,7 @@ using System;
 
 namespace dy_new_plugin.BusinessLogic
 {
+    // add comment
     public class createInCRM
     {
         private Entity _target;
